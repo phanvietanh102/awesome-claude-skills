@@ -128,6 +128,7 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 | **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
+| **[apex-twin-suite](https://github.com/phanvietanh102/apex-twin-suite)** | Symmetric twin-engine skill suite for Greenfield idea-to-product development (`idea-to-product-apex`) and Brownfield forensic workspace auditing (`product-workspace-reviewer-apex`) with 6-role C-Suite red-teaming, 7 industry playbooks, and Python verification scripts |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
